@@ -44,7 +44,7 @@ const Header = () => {
             freelancer who meet your needs with live <br /> project tracking
             through the process
           </span>
-          <div className="flex flex-col md:flex-row p-16 justify-center gap-5  text-sm  font-medium">
+          {/* <div className="flex flex-col md:flex-row p-16 justify-center gap-5  text-sm  font-medium">
             <Link to="/selectservice">
               <button className="mx-2 text-black cursor-pointer bg-[#37f9a2] px-7 py-3 rounded-lg">
                 Get a Service
@@ -53,7 +53,7 @@ const Header = () => {
             <button className="mx-2 text-white border-1 cursor-pointer border-[#37f9a270] px-4 py-3 rounded-lg">
               Get a Freelancer
             </button>
-          </div>
+          </div> */}
         </div>
         <GetServiceCard />
         {/* <div class="flex justify-between client-name-container my-10">
